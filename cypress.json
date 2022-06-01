@@ -1,0 +1,7 @@
+{
+    "defaultCommandTimeout" : 8000,
+    "experimentalSessionAndOrigin": true,
+    "env" : {
+        "firstCookieValue" : "firstValue"
+    }
+}
